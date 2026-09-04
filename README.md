@@ -11,3 +11,6 @@ ORCA (Marine EcOsystem Reasoning with Collaborative Agents) is an Agentic AI-pow
 The platform aims to transform complex marine, oceanographic, meteorological, satellite, and geospatial data into simple, conversational, explainable, and actionable intelligence for fishermen, researchers, coastal authorities, disaster-management agencies, maritime operators, and other marine stakeholders.
 
                                                                                                                                                                                  -Sandesh
+                                                                                                                                                                                 
+                                                                                                                                                                                 
+                                                                                                                                                                                 zopla ka
